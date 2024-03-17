@@ -1,1 +1,19 @@
 # quran_read_counters
+
+Basic counter widget with 3 different counters to keep track of quran reading and memorization.
+
+
+Instructions:
+
+* Up increment the count.
+
+* Down decrement the count.
+
+* Up hold increment the count by 10.
+
+* Down hold more than 1s then release resets the count to 0. If DOWN HOLD Hot key is used to open your music provider, you need to change it to none in system, so it can be used by the widget.
+
+* Start change the counter
+
+Feel free to contact the developer if any problem. I will be happy to help.
+
