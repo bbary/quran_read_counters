@@ -17,3 +17,6 @@ Instructions:
 
 Feel free to contact the developer if any problem. I will be happy to help.
 
+
+![counters](https://github.com/bbary/quran_read_counters/assets/5758100/8b90cb24-4d37-49f2-acdd-96c5edd36aa5)
+![counterglance](https://github.com/bbary/quran_read_counters/assets/5758100/02547ea6-d60a-484f-b1ea-6143848307b5)
