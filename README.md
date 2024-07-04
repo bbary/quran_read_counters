@@ -1,6 +1,6 @@
-# quran_read_counters
+# book_read_counters
 
-Basic counter widget with 3 different counters to keep track of quran reading and memorization.
+Basic counter widget with 3 different counters to keep track of book reading or memorization.
 
 
 Instructions:
